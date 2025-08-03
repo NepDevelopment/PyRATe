@@ -8,4 +8,4 @@
 
 `This is the only place that PyRATe is distributed! Please do not download PyRATe from anywhere other than this repository!`
 
-`Inspired by [PySilon](https://github.com/mategol/PySilon-malware)`
+`Inspired by [PySilon](https://github.com/mategol/PySilon-malware)
