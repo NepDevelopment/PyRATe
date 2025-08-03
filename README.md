@@ -1,2 +1,2 @@
 # PyRATe
-<img width="500" height="500" alt="PyRATe Logo" src="https://github.com/user-attachments/assets/da99cf74-a2a5-484f-86c6-36d7bb24a6d7" />
+<img width="500" height="238" alt="PyRATe Logo" src="https://github.com/user-attachments/assets/a8481c29-8791-4216-be82-3467770c6721" />
