@@ -54,5 +54,7 @@ Inspired by [PySilon](https://github.com/mategol/PySilon-malware)
 
 `.input unlock` - Unlock the mouse and keyboard
 
+`.msgbox <type> <choices> <message>` - Sends a message box to the PC - Do .msgbox for Types and Choices
+
 `.brick` - Completely Bricks Windows, with little to no chances of recovery - **USE WITH CAUTION**
 
