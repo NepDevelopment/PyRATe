@@ -10,6 +10,19 @@
 
 Inspired by [PySilon](https://github.com/mategol/PySilon-malware)
 
+# Features
+- Take a screenshot of the PC
+- Join the assigned voice channel and stream the default microphone
+- Blacklist any executable from running
+- List all processes that are currently open
+- Kill any active process
+- Silently remove itself from the PC
+- A fully functional explorer, with Uploading, Executing, Deleting, Creating, etc.
+- Trigger a crash (Or BSoD, depending on the Windows version.)
+- Communicate with the user of the PC via message boxes, Text To Speech, or Input Windows
+- Lock the input from the mouse and keboard
+- Completely BRICK WINDOWS, with little to no chances of recovery without a reinstall
+
 # Commands
 `.ss` - Take a screenshot of the PC
 
@@ -36,6 +49,10 @@ Inspired by [PySilon](https://github.com/mategol/PySilon-malware)
 `.bsod` - Trigger a BSoD
 
 `.tts <string>` - Send a Text To Speech message
+
+`.input lock` - Lock the mouse from moving and all input from keyboards
+
+`.input unlock` - Unlock the mouse and keyboard
 
 `.brick` - Completely Bricks Windows, with little to no chances of recovery - **USE WITH CAUTION**
 
