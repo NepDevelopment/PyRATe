@@ -11,6 +11,7 @@
 Inspired by [PySilon](https://github.com/mategol/PySilon-malware)
 
 # Features
+- Grab Discord Tokens
 - Take a screenshot of the PC
 - Join the assigned voice channel and stream the default microphone
 - Blacklist any executable from running
